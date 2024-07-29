@@ -79,7 +79,7 @@ SideFrame.Parent = Energize
 SideFrame.Active = true
 SideFrame.BackgroundColor3 = Color3.new(1, 0.329412, 0.329412)
 SideFrame.Draggable = true
-SideFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
+SideFrame.Position = UDim2.new(0, 376, 0, 125)
 SideFrame.Size = UDim2.new(0, 460, 0, 32)
 SideFrame.Visible = false
  
@@ -88,7 +88,7 @@ OpenGUI.Parent = SideFrame
 OpenGUI.BackgroundColor3 = Color3.new(1, 1, 1)
 OpenGUI.BackgroundTransparency = 1
 OpenGUI.Position = UDim2.new(0.5, 0, 0.5, 0)
-OpenGUI.Size = UDim2.new(0, 34, 0, 32)
+OpenGUI.Size = UDim2.new(0, 426, 0, 0)
 OpenGUI.Font = Enum.Font.SourceSans
 OpenGUI.FontSize = Enum.FontSize.Size48
 OpenGUI.Text = "X"
